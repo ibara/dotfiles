@@ -1,0 +1,22 @@
+# bcallah@ .cwmrc
+
+bind-key CM-Return	urxvt
+bind-key CM-equal	window-maximize
+bind-key C4-equal	window-vtile
+bind-key CM-f		firefox
+bind-key CM-i		"urxvt -e ssh bcallah@devio.us"
+bind-key CM-o		"urxvt -e ssh 10.0.0.1"
+bind-key CM-t		thunderbird
+bind-key CMS-q		quit
+bind-key CMS-r		restart
+bind-key M-1		group-toggle-1
+bind-key M-2		group-toggle-2
+bind-key MS-1		window-movetogroup-1
+bind-key MS-2		window-movetogroup-2
+
+bind-mouse S-1		window-resize
+
+borderwidth		4
+color activeborder	"#ffa500"
+color inactiveborder	"#c0c0c0"
+gap			4 4 4 4
