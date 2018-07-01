@@ -14,7 +14,7 @@ bind-key M-2		group-toggle-2
 bind-key MS-1		window-movetogroup-1
 bind-key MS-2		window-movetogroup-2
 
-bind-mouse S-1		window-resize
+bind-mouse 4-1		window-resize
 
 borderwidth		4
 color activeborder	"#ffa500"
