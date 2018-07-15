@@ -1,6 +1,6 @@
 # bcallah@ .cwmrc
 
-fontname	"xft:Inconsolata:pixelsize=12:antialias=true:hinting=true"
+fontname	"xft:Inconsolata:pixelsize=24:antialias=true:hinting=true"
 
 bind-key CM-Return	urxvt
 bind-key CM-equal	window-maximize
@@ -19,6 +19,6 @@ bind-key MS-2		window-movetogroup-2
 bind-mouse 4-1		window-resize
 
 borderwidth		4
-color activeborder	"#ffa500"
+color activeborder	"#ffbf00"
 color inactiveborder	"#c0c0c0"
 gap			4 4 4 4
