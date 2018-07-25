@@ -3,7 +3,7 @@
 URxvt.transparent:	true
 URxvt.shading:		35
 URxvt.background:	black
-URxvt.foreground:	#ffbf00
+URxvt.foreground:	white
 URxvt.xftAntialias:	true
 URxvt.font:		xft:Inconsolata:size=24:antialias=true:hinting=true
 URxvt.scrollBar:	false
