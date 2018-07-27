@@ -5,7 +5,7 @@ URxvt.shading:		35
 URxvt.background:	black
 URxvt.foreground:	white
 URxvt.xftAntialias:	true
-URxvt.font:		xft:Inconsolata:size=24:antialias=true:hinting=true
+URxvt.font:		xft:Inconsolata:size=10:antialias=true:hinting=true
 URxvt.scrollBar:	false
 URxvt.scrollBar_right:	false
 URxvt.loginShell:	true

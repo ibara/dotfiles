@@ -1,6 +1,6 @@
 # bcallah@ .cwmrc
 
-fontname	"xft:Inconsolata:pixelsize=24:antialias=true:hinting=true"
+fontname	"xft:Inconsolata:pixelsize=12:antialias=true:hinting=true"
 
 bind-key CM-Return	urxvt
 bind-key CM-equal	window-maximize
