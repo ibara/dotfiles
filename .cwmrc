@@ -16,7 +16,10 @@ bind-key MS-2		window-movetogroup-2
 
 bind-mouse 4-1		window-resize
 
-borderwidth		4
-color activeborder	"#ffd700"
-color inactiveborder	"#d0d0d0"
+borderwidth		0
+
+#borderwidth		4
+#color activeborder	"#ffd700"
+#color inactiveborder	"#d0d0d0"
+
 gap			4 4 4 4

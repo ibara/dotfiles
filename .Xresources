@@ -1,8 +1,12 @@
 ! bcallah@ ~/.Xresources
 
-URxvt.transparent:	true
-URxvt.shading:		35
-URxvt.background:	black
+URxvt.depth:		32
+URxvt.buffered:		true
+URxvt.transparent:	false
+URxvt.fading:		2%
+URxvt.fadeColor:	grey
+URxvt.shading:		75
+URxvt.background:	rgba:0000/0000/0000/dddd
 URxvt.foreground:	white
 URxvt.xftAntialias:	true
 URxvt.font:		xft:Inconsolata:size=10:antialias=true:hinting=true
