@@ -4,6 +4,6 @@ xset b off &
 mixerctl outputs.master=180,180 &
 ls ~/.startup/o*.wav | shuf -n 1 | xargs aucat -i &
 ls ~/.wallpaper/*.jpg | shuf -n 1 | xargs feh --bg-fill --no-fehbg &
-xcompmgr -cFf &
+xcompmgr -Ff &
 xrdb ~/.Xresources &
 exec cwm
