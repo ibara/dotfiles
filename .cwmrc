@@ -4,7 +4,6 @@ fontname	"xft:Inconsolata:pixelsize=12:antialias=true:hinting=true"
 
 bind-key CM-Return	urxvt
 bind-key CM-equal	window-maximize
-bind-key C4-equal	window-vtile
 bind-key CM-f		chrome
 bind-key CM-t		thunderbird
 bind-key CMS-q		quit
@@ -22,4 +21,7 @@ borderwidth		0
 #color activeborder	"#ffd700"
 #color inactiveborder	"#d0d0d0"
 
-gap			4 4 4 4
+#gap			4 4 4 4
+
+# with tint2
+gap			4 34 4 4
